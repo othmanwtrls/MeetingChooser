@@ -1,0 +1,21 @@
+{
+    "employees": [
+        "Alexandre",
+        "Petr",
+        "Nagashree",
+        "Vinay",
+        "Chithaj",
+        "Fredrik",
+        "You you",
+        "Thomas",
+        "Othman",
+        "Christian"
+    ],
+    "sentences": [
+        ", it's your turn, you can talk now !",
+        ", you can talk now !",
+        ", it's your turn !",
+        ", feel free to talk !",
+        ", go ahead !"
+    ]
+}
